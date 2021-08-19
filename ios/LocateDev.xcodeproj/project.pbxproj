@@ -12,8 +12,20 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		193B9198D09E4B2197964D43 /* SourceSansPro-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B8E309FD811E43A18CF871AA /* SourceSansPro-BlackItalic.ttf */; };
+		1F8404E3C266484BAE910A42 /* SourceSansPro-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7EE88DE3A6F84B08BD21151E /* SourceSansPro-LightItalic.ttf */; };
+		1FA36E1B1C9548B9AB30F4E9 /* SourceSansPro-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BCBE0531C6BF45C1BD5ECA82 /* SourceSansPro-SemiBoldItalic.ttf */; };
+		23D8263FFE4E4131936F84BB /* SourceSansPro-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6397D3D364E443A7B880D2A0 /* SourceSansPro-SemiBold.ttf */; };
+		2D424646136348788709034E /* SourceSansPro-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05B40401191B45DA8E9BBA77 /* SourceSansPro-BoldItalic.ttf */; };
+		301A0FF78A8B4FD88AF5392D /* SourceSansPro-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D0844E63F3F54E35AA098846 /* SourceSansPro-ExtraLightItalic.ttf */; };
+		67E237A879D44F55A6D3187A /* SourceSansPro-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A8EB9FECF36741AA8B6C7A65 /* SourceSansPro-Light.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		A5BFDCD0227E405F9C66586F /* SourceSansPro-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6C5A23636FA54636BD12B5B4 /* SourceSansPro-ExtraLight.ttf */; };
+		C1C707CF14024338A560DBF3 /* SourceSansPro-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4CA94A38FAC149C6898BB419 /* SourceSansPro-Bold.ttf */; };
+		D0D036D45B7449FCB40681E9 /* SourceSansPro-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 32320485ED2D4B669C5BC686 /* SourceSansPro-Black.ttf */; };
+		D149E876FFC642A4B96FA1DC /* SourceSansPro-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DF737C18889E407CAF9CFE95 /* SourceSansPro-Italic.ttf */; };
 		F6032009287E927E93B9252D /* libPods-LocateDev-LocateDevTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 51E89980BED67E368367539A /* libPods-LocateDev-LocateDevTests.a */; };
+		F6941A5666624221B8566D9B /* SourceSansPro-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EB20E8B1D7934EB9A3C14B73 /* SourceSansPro-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,18 +42,30 @@
 		00E356EE1AD99517003FC87E /* LocateDevTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocateDevTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* LocateDevTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocateDevTests.m; sourceTree = "<group>"; };
+		05B40401191B45DA8E9BBA77 /* SourceSansPro-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-BoldItalic.ttf"; path = "../assets/fonts/SourceSansPro-BoldItalic.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* LocateDev.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocateDev.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = LocateDev/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = LocateDev/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = LocateDev/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = LocateDev/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = LocateDev/main.m; sourceTree = "<group>"; };
+		32320485ED2D4B669C5BC686 /* SourceSansPro-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-Black.ttf"; path = "../assets/fonts/SourceSansPro-Black.ttf"; sourceTree = "<group>"; };
 		391E0BBAA3E5F98E219B5F06 /* Pods-LocateDev-LocateDevTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LocateDev-LocateDevTests.debug.xcconfig"; path = "Target Support Files/Pods-LocateDev-LocateDevTests/Pods-LocateDev-LocateDevTests.debug.xcconfig"; sourceTree = "<group>"; };
 		435E8CFC31E0110DE1C5C869 /* Pods-LocateDev-LocateDevTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LocateDev-LocateDevTests.release.xcconfig"; path = "Target Support Files/Pods-LocateDev-LocateDevTests/Pods-LocateDev-LocateDevTests.release.xcconfig"; sourceTree = "<group>"; };
+		4CA94A38FAC149C6898BB419 /* SourceSansPro-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-Bold.ttf"; path = "../assets/fonts/SourceSansPro-Bold.ttf"; sourceTree = "<group>"; };
 		51E89980BED67E368367539A /* libPods-LocateDev-LocateDevTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LocateDev-LocateDevTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6397D3D364E443A7B880D2A0 /* SourceSansPro-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-SemiBold.ttf"; path = "../assets/fonts/SourceSansPro-SemiBold.ttf"; sourceTree = "<group>"; };
+		6C5A23636FA54636BD12B5B4 /* SourceSansPro-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-ExtraLight.ttf"; path = "../assets/fonts/SourceSansPro-ExtraLight.ttf"; sourceTree = "<group>"; };
 		7C272E12F48F8029355976F6 /* Pods-LocateDev.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LocateDev.release.xcconfig"; path = "Target Support Files/Pods-LocateDev/Pods-LocateDev.release.xcconfig"; sourceTree = "<group>"; };
+		7EE88DE3A6F84B08BD21151E /* SourceSansPro-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-LightItalic.ttf"; path = "../assets/fonts/SourceSansPro-LightItalic.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = LocateDev/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81F2E1350A079F7504D9DFF0 /* libPods-LocateDev.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LocateDev.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A8EB9FECF36741AA8B6C7A65 /* SourceSansPro-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-Light.ttf"; path = "../assets/fonts/SourceSansPro-Light.ttf"; sourceTree = "<group>"; };
+		B8E309FD811E43A18CF871AA /* SourceSansPro-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-BlackItalic.ttf"; path = "../assets/fonts/SourceSansPro-BlackItalic.ttf"; sourceTree = "<group>"; };
+		BCBE0531C6BF45C1BD5ECA82 /* SourceSansPro-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-SemiBoldItalic.ttf"; path = "../assets/fonts/SourceSansPro-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		D0844E63F3F54E35AA098846 /* SourceSansPro-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-ExtraLightItalic.ttf"; path = "../assets/fonts/SourceSansPro-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		DF737C18889E407CAF9CFE95 /* SourceSansPro-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-Italic.ttf"; path = "../assets/fonts/SourceSansPro-Italic.ttf"; sourceTree = "<group>"; };
+		EB20E8B1D7934EB9A3C14B73 /* SourceSansPro-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-Regular.ttf"; path = "../assets/fonts/SourceSansPro-Regular.ttf"; sourceTree = "<group>"; };
 		ED1C8D638B0EB7A1E236AE83 /* Pods-LocateDev.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LocateDev.debug.xcconfig"; path = "Target Support Files/Pods-LocateDev/Pods-LocateDev.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -122,6 +146,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BA0A24CA0B377260D5F6AFF2 /* Pods */,
+				BC8EDFF2EA53473B9381D8CC /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +172,26 @@
 			);
 			name = Pods;
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		BC8EDFF2EA53473B9381D8CC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				32320485ED2D4B669C5BC686 /* SourceSansPro-Black.ttf */,
+				B8E309FD811E43A18CF871AA /* SourceSansPro-BlackItalic.ttf */,
+				4CA94A38FAC149C6898BB419 /* SourceSansPro-Bold.ttf */,
+				05B40401191B45DA8E9BBA77 /* SourceSansPro-BoldItalic.ttf */,
+				6C5A23636FA54636BD12B5B4 /* SourceSansPro-ExtraLight.ttf */,
+				D0844E63F3F54E35AA098846 /* SourceSansPro-ExtraLightItalic.ttf */,
+				DF737C18889E407CAF9CFE95 /* SourceSansPro-Italic.ttf */,
+				A8EB9FECF36741AA8B6C7A65 /* SourceSansPro-Light.ttf */,
+				7EE88DE3A6F84B08BD21151E /* SourceSansPro-LightItalic.ttf */,
+				EB20E8B1D7934EB9A3C14B73 /* SourceSansPro-Regular.ttf */,
+				6397D3D364E443A7B880D2A0 /* SourceSansPro-SemiBold.ttf */,
+				BCBE0531C6BF45C1BD5ECA82 /* SourceSansPro-SemiBoldItalic.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -245,6 +290,18 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				D0D036D45B7449FCB40681E9 /* SourceSansPro-Black.ttf in Resources */,
+				193B9198D09E4B2197964D43 /* SourceSansPro-BlackItalic.ttf in Resources */,
+				C1C707CF14024338A560DBF3 /* SourceSansPro-Bold.ttf in Resources */,
+				2D424646136348788709034E /* SourceSansPro-BoldItalic.ttf in Resources */,
+				A5BFDCD0227E405F9C66586F /* SourceSansPro-ExtraLight.ttf in Resources */,
+				301A0FF78A8B4FD88AF5392D /* SourceSansPro-ExtraLightItalic.ttf in Resources */,
+				D149E876FFC642A4B96FA1DC /* SourceSansPro-Italic.ttf in Resources */,
+				67E237A879D44F55A6D3187A /* SourceSansPro-Light.ttf in Resources */,
+				1F8404E3C266484BAE910A42 /* SourceSansPro-LightItalic.ttf in Resources */,
+				F6941A5666624221B8566D9B /* SourceSansPro-Regular.ttf in Resources */,
+				23D8263FFE4E4131936F84BB /* SourceSansPro-SemiBold.ttf in Resources */,
+				1FA36E1B1C9548B9AB30F4E9 /* SourceSansPro-SemiBoldItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
